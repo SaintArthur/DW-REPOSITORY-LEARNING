@@ -1,6 +1,6 @@
-# Projeto de Modelagem Dimensional e Design de Dashboards
+# Projeto de Modelagem Dimensional e Design de Dashboards 2018
 
-Para a elaboração e construção deste projeto, foram utilizados dados do governo federal disponibilizados no portal da transparência. Optamos por utilizar os dados do Bolsa Família e ver os pagamentos através do ano de 2017. Entretanto, em um único mês, a leitura do arquivo ficou inviável para ser lido em máquinas pessoais, logo, utilizamos parte dos dados para alimentarem os *dashboards*. Para baixar os dados, [clique aqui](http://www.portaltransparencia.gov.br/downloads/mensal.asp?c=BolsaFamiliaFolhaPagamento#meses01).
+Para a elaboração e construção deste projeto, foram utilizados dados do governo federal disponibilizados no portal da transparência. Optamos por utilizar os dados do Bolsa Família e ver os pagamentos através do ano de 2017. Entretanto, em um único mês, a leitura do arquivo ficou inviável para ser lido em máquinas pessoais, logo, utilizei parte dos dados para alimentarem os *dashboards*. Para baixar os dados, [clique aqui](http://www.portaltransparencia.gov.br/downloads/mensal.asp?c=BolsaFamiliaFolhaPagamento#meses01).
 
 ### Modelo Dimensional
 
@@ -72,5 +72,5 @@ O nosso dashboard ficou neste formato:
 
 
 ###### About
-Igor Farias & Mateus Mota.
-Em caso de dúvidas: igorfarias30@hotmail.com
+Arthur Brilhante.
+Em caso de dúvidas: Brilhantearthurr@gmail.com
